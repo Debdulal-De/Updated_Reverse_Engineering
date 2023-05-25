@@ -1,0 +1,2 @@
+Install Ghidra to reverse engineer the bbbbloat ELF file.
+Open the presentation on PowerPoint.
